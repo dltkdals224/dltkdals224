@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sangmin&fontSize=40)
 
-<center>
+
+<div align="center">
 🌱 Tech Stack 🌱
 <p>
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?&style=plastic&logo=HTML5&logoColor=white"/>
@@ -33,6 +34,7 @@ Here are some ideas to get you started:
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC?&style=plastic&logo=C&logoColor=white"/>
   <img alt="C++" src ="https://img.shields.io/badge/C++-00599C?&style=plastic&logo=C++&logoColor=white"/>
 </p>
+  
 
 🎠 I've used 🎠
 <p>
@@ -47,4 +49,4 @@ Here are some ideas to get you started:
   <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E?&style=plastic&logo=Figma&logoColor=white"/>
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000?&style=plastic&logo=Notion&logoColor=white"/>
 </p>
-</center>
+</div>
