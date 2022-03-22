@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sangmin&fontSize=40)
 
-1.
-<img alt="HTML5" src ="file:///Users/sangmin/Downloads/html5.svg?&style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
+<img alt="HTML5" src ="http://www.w3.org/2000/svg?&style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
