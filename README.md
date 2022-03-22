@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdals224&show_icons=true&theme=radical) -->
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 에서 모든정보 확인 가능-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hi&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sangmin&fontSize=40)
 
