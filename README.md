@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdals224&show_icons=true&theme=radical) -->
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 에서 모든정보 확인 가능-->
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sangmin&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sangmin&fontSize=40)
 
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?&style=plastic&logo=HTML5&logoColor=E34F26"/>
+<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?&style=plastic&logo=CSS3&logoColor=1572B6"/>
