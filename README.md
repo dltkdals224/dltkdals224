@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sangmin&fontSize=40)
 
 
-<div align="center">
-🌱 Tech Stack 🌱
-<p>
+<h3 align="center"> 🌱 Tech Stack 🌱 </h3>
+
+<p align="center">
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?&style=plastic&logo=HTML5&logoColor=white"/>
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6?&style=plastic&logo=CSS3&logoColor=white"/>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=plastic&logo=JavaScript&logoColor=white"/>
@@ -35,9 +35,9 @@ Here are some ideas to get you started:
   <img alt="C++" src ="https://img.shields.io/badge/C++-00599C?&style=plastic&logo=C++&logoColor=white"/>
 </p>
   
+<h3 align="center"> 🎠 I've used 🎠 </h3>
 
-🎠 I've used 🎠
-<p>
+<p align="center">
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032?&style=plastic&logo=Git&logoColor=white"/>
   <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717?&style=plastic&logo=GitHub&logoColor=white"/>
   <img alt="GitKraken" src ="https://img.shields.io/badge/GitKraken-179287?&style=plastic&logo=GitKraken&logoColor=white"/>
@@ -49,4 +49,5 @@ Here are some ideas to get you started:
   <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E?&style=plastic&logo=Figma&logoColor=white"/>
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000?&style=plastic&logo=Notion&logoColor=white"/>
 </p>
-</div>
+
+[![Sangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdals224&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
