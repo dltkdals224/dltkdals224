@@ -53,4 +53,5 @@ Here are some ideas to get you started:
   
 <h4 align="center"> 🥇 GitHub stats 🥇 </h4>
 
+[![Sangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdals224&show_icons=true&theme=rose_pine&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 [![Sangmin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dltkdals224&show_icons=true&theme=rose_pine&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
