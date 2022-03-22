@@ -49,5 +49,7 @@ Here are some ideas to get you started:
   <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E?&style=plastic&logo=Figma&logoColor=white"/>
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000?&style=plastic&logo=Notion&logoColor=white"/>
 </p>
-
-[![Sangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdals224&show_icons=true&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  
+[![Sangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdals224&show_icons=true&theme=rose_pine&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
