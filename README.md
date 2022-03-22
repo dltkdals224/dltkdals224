@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Sangmin&fontSize=40)
 
-<p>
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
-</p>
+<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=E34F26"/>
