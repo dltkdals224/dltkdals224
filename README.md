@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sangmin&fontSize=40)
 
 
-<h4 align="center"> 🌱 Tech Stack 🌱 </h3>
+<h4 align="center"> 🌱 Tech Stack 🌱 </h4>
 
 <p align="center">
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?&style=plastic&logo=HTML5&logoColor=white"/>
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <img alt="C++" src ="https://img.shields.io/badge/C++-00599C?&style=plastic&logo=C++&logoColor=white"/>
 </p>
   
-<h4 align="center"> 🎠 I've used 🎠 </h3>
+<h4 align="center"> 🎠 I've used 🎠 </h4>
 
 <p align="center">
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032?&style=plastic&logo=Git&logoColor=white"/>
@@ -51,8 +51,6 @@ Here are some ideas to get you started:
 </p>
   
   
-<h4 align="center"> 🥇 GitHub stats 🥇 </h3>
+<h4 align="center"> 🥇 GitHub stats 🥇 </h4>
 
-<div align="center">
-[![Sangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdals224&show_icons=true&theme=rose_pine&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+[![Sangmin's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=dltkdals224&show_icons=true&theme=rose_pine&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
