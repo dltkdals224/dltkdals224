@@ -29,8 +29,6 @@ Here are some ideas to get you started:
   <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6?&style=plastic&logo=TypeScript&logoColor=white"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?&style=plastic&logo=React&logoColor=white"/>
   <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000?&style=plastic&logo=Next.js&logoColor=white"/>
-  <img alt="styled-components" src="https://img.shields.io/badge/styled components-DB7093?style=plastic&logo=styled-components&logoColor=white"/>
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=plastic&logo=Sass&logoColor=white"/>
 </p>
   
 <h4 align="center"> 🎠 I've used 🎠 </h4>
