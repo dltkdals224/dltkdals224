@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sangmin&fontSize=40)
 
 
-<h4 align="center"> 🌱 Tech Stack 🌱 </h4>
+<h4 align="center"> Tech Stack </h4>
 
 <p align="center">
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26?&style=plastic&logo=HTML5&logoColor=white"/>
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
   <img alt="Next.js" src ="https://img.shields.io/badge/Next.js-000000?&style=plastic&logo=Next.js&logoColor=white"/>
 </p>
   
-<h4 align="center"> 🎠 I've used 🎠 </h4>
+<h4 align="center"> Tools </h4>
 
 <p align="center">
   <img alt="Git" src ="https://img.shields.io/badge/Git-F05032?&style=plastic&logo=Git&logoColor=white"/>
