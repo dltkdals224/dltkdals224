@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sangmin&fontSize=40)
 
-
 <h4 align="center"> Tech Stack </h4>
 
 <p align="center">
