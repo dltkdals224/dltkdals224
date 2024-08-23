@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdals224&show_icons=true&theme=radical) -->
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 에서 모든정보 확인 가능-->
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sangmin&fontSize=40)
 
 <h4 align="center"> Tech Stack </h4>
