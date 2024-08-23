@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="bannerImg" alt="Banner gif">
+  <img src="bannerImg.gif" alt="Banner gif">
 </div>
 
 <h2><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">안녕하세요. 개발자 이상민입니다.</h2>
