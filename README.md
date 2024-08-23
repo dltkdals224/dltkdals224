@@ -17,10 +17,7 @@ Here are some ideas to get you started:
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdals224&show_icons=true&theme=radical) -->
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 에서 모든정보 확인 가능-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
-  <img alt="github-snake" src="github-contribution-grid-snake-dark.svg" />
-</picture>
+![Description of Snake]([https://raw.githubusercontent.com/username/repository/output/path/to/your/file.svg](https://raw.githubusercontent.com/dltkdals224/dltkdals224/output/github-contribution-grid-snake-dark.svg))
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sangmin&fontSize=40)
 
