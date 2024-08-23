@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <!--https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md 에서 모든정보 확인 가능-->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-contribution-grid-snake-dark.svg" />
+  <img alt="github-snake" src="github-contribution-grid-snake-dark.svg" />
 </picture>
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Sangmin&fontSize=40)
