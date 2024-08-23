@@ -7,6 +7,7 @@
 
 <h2>📚 Writing </h2>
 
+Besides developing, I also write [이상민 블로그](https://ideal-dl.tistory.com/)
 
 <br/>
 
@@ -28,8 +29,10 @@
 <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 
+<br/>
+
 <h2>📊 Statistics</h2> 
-[![Sangmin's github stats](https://github-readme-stats.vercel.app/api?username=dltkdals224&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdals224)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
