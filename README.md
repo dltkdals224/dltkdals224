@@ -1,20 +1,16 @@
-<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">Hello, my name is Sangmin.</h2>
+<h2 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello, my name is Sangmin.</h2>
 <div align="center">
   <img src="bannerImg.gif" alt="Banner gif">
 </div>
 
-~~
+<br/>
+
+<h2>📚 Writing </h2>
+
 
 <br/>
 
-<h3>📚 Writing </h3>
-<hr/>
-~~
-
-<br/>
-
-<h3>🛠️ Technologies & Tools </h3>
-<hr/>
+<h2>🛠️ Technologies & Tools </h2>
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E?&style=flat-square&logo=JavaScript&logoColor=white"/>
 <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6?&style=flat-square&logo=TypeScript&logoColor=white"/>
 <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?&style=flat-square&logo=React&logoColor=white"/>
@@ -27,6 +23,9 @@
 <img alt="Slack" src ="https://img.shields.io/badge/Slack-4A154B?&style=flat-square&logo=Slack&logoColor=white"/>
 <img alt="Jira" src ="https://img.shields.io/badge/Jira-0052CC?&style=flat-square&logo=Jira&logoColor=white"/>
 <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000?&style=flat-square&logo=Notion&logoColor=white"/>
+
+<h2>📊 Statistics</h2> 
+[![Sangmin's github stats](https://github-readme-stats.vercel.app/api?username=dltkdals224&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
