@@ -32,7 +32,7 @@ Besides developing, I also write [이상민 블로그](https://ideal-dl.tistory.
 <br/>
 
 <h2>📊 Statistics</h2> 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdals224)](https://github.com/anuraghazra/github-readme-stats)
+[![Sangmin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltkdals224)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
